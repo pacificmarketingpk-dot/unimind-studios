@@ -1,0 +1,592 @@
+{
+  "_help": "Only real projects, real numbers and real quotes with permission. Empty lists keep sections hidden.",
+  "case_studies": [
+    {
+      "title": "Skin Body Health",
+      "category": "SEO",
+      "industry": "Skin care clinic",
+      "summary": "Low online traffic turned into qualified organic leads by the end of six months.",
+      "detail": "Skin Body Health had a solid business but struggled with low online traffic. After auditing and optimising the website, we improved its SEO with targeted keywords, fresh content and more. Relevant traffic increased within a month, and by the end of six months the business was getting qualified leads from organic search.",
+      "results": [
+        [
+          "216",
+          "clicks"
+        ],
+        [
+          "7.3K",
+          "impressions"
+        ],
+        [
+          "3%",
+          "average CTR"
+        ],
+        [
+          "17.5",
+          "average position"
+        ]
+      ],
+      "images": [
+        {
+          "src": "assets/img/work/cs1_site.webp",
+          "w": 640,
+          "h": 419,
+          "alt": "Skin Body Health website screenshot"
+        },
+        {
+          "src": "assets/img/work/cs1_gsc.webp",
+          "w": 800,
+          "h": 552,
+          "alt": "Skin Body Health Google Search Console results"
+        },
+        {
+          "src": "assets/img/work/cs1_mob.webp",
+          "w": 297,
+          "h": 800,
+          "alt": "Skin Body Health mobile view"
+        }
+      ],
+      "url": "https://skinbodyhealth.com/",
+      "source_note": "Figures from the Google Search Console screenshot supplied with the project."
+    },
+    {
+      "title": "Allen Jacobi Law",
+      "category": "SEO",
+      "industry": "Entertainment law",
+      "summary": "Indexing fixed and content optimised, with qualified organic leads by month three.",
+      "detail": "Allen Jacobi Law had indexing issues despite a strong reputation. After we resolved the indexing problems, optimised the content and added more long-tail keywords, traffic picked up within a month. By the third month, qualified leads were coming in through organic search.",
+      "results": [
+        [
+          "471",
+          "clicks"
+        ],
+        [
+          "9.85K",
+          "impressions"
+        ],
+        [
+          "4.8%",
+          "average CTR"
+        ],
+        [
+          "17.5",
+          "average position"
+        ]
+      ],
+      "images": [
+        {
+          "src": "assets/img/work/cs2_site.webp",
+          "w": 640,
+          "h": 464,
+          "alt": "Allen Jacobi Law website screenshot"
+        },
+        {
+          "src": "assets/img/work/cs2_gsc.webp",
+          "w": 800,
+          "h": 643,
+          "alt": "Allen Jacobi Law Google Search Console results"
+        },
+        {
+          "src": "assets/img/work/cs2_mob.webp",
+          "w": 274,
+          "h": 800,
+          "alt": "Allen Jacobi Law mobile view"
+        }
+      ],
+      "url": "https://allenjacobilaw.com/",
+      "source_note": "Figures from the Google Search Console screenshot supplied with the project."
+    },
+    {
+      "title": "Pure Hope Weight Loss",
+      "category": "SEO",
+      "industry": "Weight loss and healthcare",
+      "summary": "Technical and on-page SEO built organic traffic from the ground up.",
+      "detail": "Pure Hope Weight Loss had a successful business but was struggling to attract online traffic. We started from the ground up, addressing both technical SEO and on-page optimisation. After auditing and optimising the website, we identified the target audience and the best keywords to attract them, revamped the content to make it more user-friendly and added long-tail keywords to help boost organic traffic.",
+      "results": [
+        [
+          "201",
+          "clicks"
+        ],
+        [
+          "3.83K",
+          "impressions"
+        ],
+        [
+          "5.2%",
+          "average CTR"
+        ],
+        [
+          "24.5",
+          "average position"
+        ]
+      ],
+      "images": [
+        {
+          "src": "assets/img/work/cs3_site.webp",
+          "w": 640,
+          "h": 463,
+          "alt": "Pure Hope Weight Loss website screenshot"
+        },
+        {
+          "src": "assets/img/work/cs3_gsc.webp",
+          "w": 800,
+          "h": 642,
+          "alt": "Pure Hope Weight Loss Google Search Console results"
+        },
+        {
+          "src": "assets/img/work/cs3_mob.webp",
+          "w": 275,
+          "h": 800,
+          "alt": "Pure Hope Weight Loss mobile view"
+        }
+      ],
+      "url": "https://purehopeweightloss.com/",
+      "source_note": "Figures from the Google Search Console screenshot supplied with the project."
+    },
+    {
+      "title": "Our Village",
+      "category": "SEO",
+      "industry": "Parenting services app",
+      "summary": "Better keywords and a better site helped users find the app through search.",
+      "detail": "This client had a great app but poor online visibility. After optimising their website and targeting the right keywords, we helped increase their traffic significantly, and users were finally finding the app through organic search.",
+      "results": [],
+      "images": [
+        {
+          "src": "assets/img/work/cs4_site.webp",
+          "w": 640,
+          "h": 483,
+          "alt": "Our Village website screenshot"
+        }
+      ],
+      "url": "https://ourvillageapp.org/",
+      "source_note": ""
+    },
+    {
+      "title": "Naples Dent Away",
+      "category": "Google Ads",
+      "industry": "Dent repair, Naples, Florida",
+      "summary": "595 clicks and 9 conversions from a $1,720 Google Ads campaign.",
+      "detail": "Naples Dent Away, a dent repair service in Naples, Florida, ran a digital advertising campaign to boost its online visibility. The campaign generated 595 clicks from 25,000 impressions, resulting in 9 conversions. With a total spend of $1,720, the average cost per click was approximately $2.89. While the click-through rate was strong, the campaign points to clear areas for conversion rate optimisation. The business continues to build brand awareness and connect with local customers through strategic digital marketing.",
+      "results": [
+        [
+          "595",
+          "clicks"
+        ],
+        [
+          "25K",
+          "impressions"
+        ],
+        [
+          "9",
+          "conversions"
+        ],
+        [
+          "$1,720",
+          "total spend"
+        ],
+        [
+          "$2.89",
+          "average cost per click (calculated)"
+        ]
+      ],
+      "images": [
+        {
+          "src": "assets/img/work/cs5_ads.webp",
+          "w": 800,
+          "h": 373,
+          "alt": "Naples Dent Away ads results dashboard"
+        }
+      ],
+      "url": "https://naplesdentaway.com/",
+      "source_note": "Figures from the Google Ads dashboard screenshot supplied with the project."
+    },
+    {
+      "title": "Allen Jacobi Law",
+      "category": "Google Ads",
+      "industry": "Entertainment law",
+      "summary": "717 clicks at an average $0.78 per click, for $558 total spend.",
+      "detail": "Allen Jacobi Law Firm, which specialises in entertainment law, ran a Google Ads campaign that delivered strong engagement. The campaign generated 717 clicks from 24.3K impressions, with an average cost per click of $0.78 and a total spend of $558, showing effective outreach and targeted visibility.",
+      "results": [
+        [
+          "717",
+          "clicks"
+        ],
+        [
+          "24.3K",
+          "impressions"
+        ],
+        [
+          "$0.78",
+          "average cost per click"
+        ],
+        [
+          "$558",
+          "total spend"
+        ]
+      ],
+      "images": [
+        {
+          "src": "assets/img/work/cs6_kpi.webp",
+          "w": 640,
+          "h": 140,
+          "alt": "Allen Jacobi Law campaign results summary"
+        },
+        {
+          "src": "assets/img/work/cs6_dev.webp",
+          "w": 244,
+          "h": 205,
+          "alt": "Allen Jacobi Law results by device"
+        },
+        {
+          "src": "assets/img/work/cs6_kw.webp",
+          "w": 244,
+          "h": 209,
+          "alt": "Allen Jacobi Law keyword results"
+        }
+      ],
+      "url": "https://allenjacobilaw.com/",
+      "source_note": "Figures from the Google Ads dashboard screenshots supplied with the project."
+    },
+    {
+      "title": "Primax Solar Energy",
+      "category": "Meta Ads",
+      "industry": "Solar energy",
+      "summary": "Over 155,000 link clicks at about PKR 1.63 to PKR 1.95 per click.",
+      "detail": "Across three recent campaigns, we achieved over 155,000 link clicks at an average cost of around PKR 1.63 to PKR 1.95 per click, driving a large volume of cost-effective traffic.",
+      "results": [
+        [
+          "155K+",
+          "link clicks"
+        ],
+        [
+          "PKR 1.63 to 1.95",
+          "cost per click"
+        ],
+        [
+          "3",
+          "campaigns"
+        ]
+      ],
+      "images": [
+        {
+          "src": "assets/img/work/cs7_ads.webp",
+          "w": 505,
+          "h": 640,
+          "alt": "Primax Solar Energy ads results dashboard"
+        }
+      ],
+      "url": "",
+      "source_note": "Figures from the live Meta Ads dashboard screenshot supplied with the project."
+    },
+    {
+      "title": "Shahid Enterprizes",
+      "category": "Meta Ads",
+      "industry": "Industrial belts",
+      "summary": "Three Meta campaigns generating messaging conversations and link clicks.",
+      "detail": "Recent Meta Ads campaigns showing the type of results we generate. The goal is always to generate high-quality leads, conversations and traffic at the lowest possible cost.",
+      "results": [
+        [
+          "3",
+          "campaigns"
+        ],
+        [
+          "2,813",
+          "link clicks"
+        ],
+        [
+          "151",
+          "messaging conversations"
+        ]
+      ],
+      "images": [
+        {
+          "src": "assets/img/work/cs8_ads.webp",
+          "w": 436,
+          "h": 640,
+          "alt": "Shahid Enterprizes ads results dashboard"
+        }
+      ],
+      "url": "",
+      "source_note": "Figures from the live Meta Ads dashboard screenshot supplied with the project."
+    }
+  ],
+  "_case_study_example": {
+    "title": "",
+    "category": "Websites",
+    "industry": "",
+    "summary": "",
+    "challenge": "",
+    "approach": "",
+    "results": [
+      [
+        "value",
+        "what it measures"
+      ]
+    ],
+    "image": "assets/img/work/example.webp",
+    "image_w": 1600,
+    "image_h": 1000,
+    "url": ""
+  },
+  "portfolio": [
+    {
+      "title": "Naples Dent Away website",
+      "category": "Websites",
+      "image": "assets/img/work/web1.webp",
+      "image_w": 640,
+      "image_h": 291,
+      "url": "https://naplesdentaway.com/"
+    },
+    {
+      "title": "SM online store",
+      "category": "Websites",
+      "image": "assets/img/work/web2.webp",
+      "image_w": 560,
+      "image_h": 288,
+      "url": "https://solidasmemorias.pt/"
+    },
+    {
+      "title": "Skin Body Health website",
+      "category": "Websites",
+      "image": "assets/img/work/web3.webp",
+      "image_w": 560,
+      "image_h": 287,
+      "url": "https://skinbodyhealth.com/"
+    },
+    {
+      "title": "ZA chartered accountancy website",
+      "category": "Websites",
+      "image": "assets/img/work/web4.webp",
+      "image_w": 640,
+      "image_h": 328,
+      "url": "https://za-company.com/"
+    },
+    {
+      "title": "Pure Hope Weight Loss website",
+      "category": "Websites",
+      "image": "assets/img/work/web5.webp",
+      "image_w": 640,
+      "image_h": 463,
+      "url": "https://purehopeweightloss.com/"
+    },
+    {
+      "title": "Allen Jacobi Law website",
+      "category": "Websites",
+      "image": "assets/img/work/web6.webp",
+      "image_w": 640,
+      "image_h": 464,
+      "url": "https://allenjacobilaw.com/"
+    },
+    {
+      "title": "NDE car accessories store",
+      "category": "Websites",
+      "image": "assets/img/work/web7.webp",
+      "image_w": 640,
+      "image_h": 449,
+      "url": "https://www.ndestore.com/"
+    },
+    {
+      "title": "Trader SunShine website",
+      "category": "Websites",
+      "image": "assets/img/work/web8.webp",
+      "image_w": 640,
+      "image_h": 298,
+      "url": ""
+    },
+    {
+      "title": "ZA social post",
+      "category": "Post designs",
+      "image": "assets/img/work/post1.webp",
+      "image_w": 400,
+      "image_h": 400,
+      "url": ""
+    },
+    {
+      "title": "UNMND social post",
+      "category": "Post designs",
+      "image": "assets/img/work/post2.webp",
+      "image_w": 400,
+      "image_h": 400,
+      "url": ""
+    },
+    {
+      "title": "Urban City Lahore property post",
+      "category": "Post designs",
+      "image": "assets/img/work/post3.webp",
+      "image_w": 400,
+      "image_h": 400,
+      "url": ""
+    },
+    {
+      "title": "Pure Bite food post",
+      "category": "Post designs",
+      "image": "assets/img/work/post4.webp",
+      "image_w": 400,
+      "image_h": 400,
+      "url": ""
+    },
+    {
+      "title": "NDE spark plug product post",
+      "category": "Post designs",
+      "image": "assets/img/work/post5.webp",
+      "image_w": 400,
+      "image_h": 400,
+      "url": ""
+    },
+    {
+      "title": "Fototrade camera offer post",
+      "category": "Post designs",
+      "image": "assets/img/work/post6.webp",
+      "image_w": 400,
+      "image_h": 400,
+      "url": ""
+    },
+    {
+      "title": "Eclat Trade pet food post",
+      "category": "Post designs",
+      "image": "assets/img/work/post7.webp",
+      "image_w": 400,
+      "image_h": 400,
+      "url": ""
+    },
+    {
+      "title": "SM phone post",
+      "category": "Post designs",
+      "image": "assets/img/work/post8.webp",
+      "image_w": 400,
+      "image_h": 400,
+      "url": ""
+    },
+    {
+      "title": "AI graphic design for a skin care clinic",
+      "category": "AI graphic design",
+      "image": "assets/img/work/ai1.webp",
+      "image_w": 400,
+      "image_h": 400,
+      "url": ""
+    }
+  ],
+  "_portfolio_example": {
+    "title": "",
+    "category": "Websites",
+    "image": "assets/img/work/example.webp",
+    "image_w": 1600,
+    "image_h": 1000,
+    "url": ""
+  },
+  "testimonials": [
+    {
+      "name": "Kimberly Brilliant",
+      "role": "Florida Registered Paralegal and Operations Manager at Pyramid Records",
+      "photo": "assets/img/people/av_kimberly.webp",
+      "quote": "Working with Khan has been an absolute pleasure. He is incredibly dedicated, consistently going above and beyond to ensure our company’s marketing and SEO goals are met. His responsiveness, even outside of regular hours, speaks volumes about his commitment. On top of his work ethic, he’s also a genuinely pleasant and professional person to collaborate with. I highly recommend him."
+    },
+    {
+      "name": "Randa Bedair",
+      "role": "Mompreneur | Community Builder | Founder",
+      "photo": "assets/img/people/av_randa.webp",
+      "quote": "Khan has helped me with two of my businesses, and he only delivers quality work! My SEO has ranked for each business and he does everything it takes to improve the businesses’s visibility. Thank you for your work Khan, I highly recommend for any business owner!"
+    },
+    {
+      "name": "Julio Mata",
+      "role": "Help startups achieve their goals through paid media.",
+      "photo": "assets/img/people/av_julio.webp",
+      "quote": "We have worked together to make videos. Khan is patient, effective, and attentive. I am glad to give him and his team more video assignments because we have made great work together."
+    },
+    {
+      "name": "Ann Halbrooks, MBA",
+      "role": "Creative Guru / Digital Marketing Consultant",
+      "photo": "assets/img/people/av_ann.webp",
+      "quote": "Mr. Khan consulted with me about growing my business. I highly recommend him for growth strategies and expert level SEO! He kindly shared his professional knowledge, tips and tricks and I hope to collaborate with him in the near future! Cheers."
+    },
+    {
+      "name": "Michelle Tuley",
+      "role": "",
+      "photo": "assets/img/people/av_michelle.webp",
+      "quote": "I have the absolute pleasure of working with Mohammad Ali Khan at Market Ai, where he serves as our Senior Project Manager and Head of IT. Mohammad is one of those rare professionals who combines deep technical expertise with outstanding leadership and a genuinely delightful personality. He’s a natural leader—respected by his peers and valued by his team. Whether he’s managing complex projects or implementing the latest tech solutions, Mohammad consistently delivers with precision, creativity, and confidence. His commitment to staying ahead of emerging technologies keeps our systems both efficient and future-ready. Mohammad is also incredibly helpful and approachable. No matter how busy he is, he always makes time to support others, solve problems, and uplift the team. His presence sets the tone for a collaborative, positive, and high-performing work environment. It’s truly a privilege to work alongside him, and I can’t recommend him highly enough."
+    }
+  ],
+  "_testimonial_example": {
+    "name": "",
+    "role": "",
+    "quote": "",
+    "photo": "assets/img/people/example.webp"
+  },
+  "client_logos": [
+    {
+      "name": "Allen Jacobi Law",
+      "image": "assets/img/logos/allen-jacobi-law.webp",
+      "w": 355,
+      "h": 300,
+      "display_h": 84
+    },
+    {
+      "name": "Skin Body Health",
+      "image": "assets/img/logos/skin-body-health.webp",
+      "w": 346,
+      "h": 104,
+      "display_h": 56
+    },
+    {
+      "name": "Pure Hope Weight Loss",
+      "image": "assets/img/logos/pure-hope-weight-loss.webp",
+      "w": 363,
+      "h": 148,
+      "display_h": 64
+    },
+    {
+      "name": "Naples Dent Away",
+      "image": "assets/img/logos/naples-dent-away.webp",
+      "w": 295,
+      "h": 110,
+      "display_h": 58
+    },
+    {
+      "name": "Our Village",
+      "image": "assets/img/logos/our-village.webp",
+      "w": 285,
+      "h": 122,
+      "display_h": 56
+    },
+    {
+      "name": "Cata Electronics",
+      "image": "assets/img/logos/cata-electronics.webp",
+      "w": 416,
+      "h": 138,
+      "display_h": 56
+    },
+    {
+      "name": "5 Wards Services",
+      "image": "assets/img/logos/5-wards-services.webp",
+      "w": 368,
+      "h": 118,
+      "display_h": 56
+    },
+    {
+      "name": "Earth Wonders",
+      "image": "assets/img/logos/earth-wonders.webp",
+      "w": 290,
+      "h": 291,
+      "display_h": 72
+    },
+    {
+      "name": "The Primal Labs",
+      "image": "assets/img/logos/the-primal-labs.webp",
+      "w": 344,
+      "h": 91,
+      "display_h": 44
+    }
+  ],
+  "_logo_example": {
+    "name": "",
+    "image": "assets/img/logos/example.svg",
+    "w": 160,
+    "h": 48
+  },
+  "team": [],
+  "_team_example": {
+    "name": "",
+    "role": "",
+    "bio": "",
+    "photo": "assets/img/people/example.webp"
+  }
+}

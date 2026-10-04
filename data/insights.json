@@ -1,0 +1,5 @@
+{
+  "_help": "Articles written from your real work. body_html is the article body (paragraphs, h2, h3, lists).",
+  "articles": [],
+  "_article_example": {"slug": "how-we-rebuilt-a-slow-site", "title": "", "desc": "", "category": "", "date": "2026-10-01", "summary": "", "body_html": "<p></p>"}
+}

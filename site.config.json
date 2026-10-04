@@ -1,0 +1,27 @@
+{
+  "_help": "Fill these in, then run: python3 build.py. Leave a value empty to switch that feature off.",
+  "site_url": "",
+  "public_email": "",
+  "show_phones": false,
+  "phones": [],
+  "booking_url": "https://calendar.app.google/8Rh3U5bq6RLApSBVA",
+  "form_endpoint": "",
+  "form_recipient": "",
+  "offices": [],
+  "_offices_example": [
+    {
+      "name": "Head office",
+      "street": "",
+      "city": "",
+      "region": "",
+      "postal": "",
+      "country": ""
+    }
+  ],
+  "ga4_id": "",
+  "gtm_id": "",
+  "gtm_already_fires_ga4": null,
+  "cookieyes_src": "",
+  "search_console_meta": "",
+  "socials": []
+}
