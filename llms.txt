@@ -1,0 +1,27 @@
+# Unimind Studios
+
+> Unimind Studios Pvt Ltd is a studio that designs and builds brands, websites and digital products, written in plain English with fast, accessible pages.
+
+## Services
+- [Brand identity](https://www.unimindstudios.com/services/brand-identity/): A name, logo, colour palette and tone of voice that make you easy to recognise and remember.
+- [Website design](https://www.unimindstudios.com/services/website-design/): Page layouts planned around your customer's questions, shown to you as clickable drafts before any code.
+- [Website development](https://www.unimindstudios.com/services/website-development/): We turn the approved design into a fast, accessible website that works on every screen size.
+- [UX and product design](https://www.unimindstudios.com/services/ux-product-design/): UX means user experience: how easy your app or tool is to use. We test screens with real people and fix what confuses them.
+- [SEO and content](https://www.unimindstudios.com/services/seo-content/): Clear page writing, tidy technical setup and honest monthly reports on what people search for and find.
+- [Website care](https://www.unimindstudios.com/services/website-care/): Security updates, backups, small edits and a short report each month, so your site keeps working.
+
+## Key pages
+- [Home](https://www.unimindstudios.com/)
+- [Services](https://www.unimindstudios.com/services/)
+- [About](https://www.unimindstudios.com/about/)
+- [Work](https://www.unimindstudios.com/work/)
+- [Glossary](https://www.unimindstudios.com/glossary/): 24 terms explained
+- [Contact](https://www.unimindstudios.com/contact/)
+
+## Short answers
+- What is brand identity? Brand identity is everything that makes your business recognisable: your logo, colours, fonts, images and the way you write. A good identity looks the same on your website, your invoices and your social posts, so people remember you and trust you sooner.
+- What is website design? Website design is planning what goes on each page and how it looks: the order of information, the headings, the images and the buttons. Good design makes it obvious what you do and what the visitor should do next, on a phone as well as a laptop.
+- What is website development? Website development is building the actual working site from the design. It covers the code, the editing system your team uses, the forms, the hosting and the checks that make sure every page works on phones, tablets and computers.
+- What is UX design? UX stands for user experience. UX design is making a digital product easy and pleasant to use: clear steps, sensible buttons and no dead ends. It relies on watching real people use the product and fixing what trips them up.
+- What is SEO? SEO stands for search engine optimisation. It is the work that helps search engines like Google understand your pages and show them to people searching for what you offer. It includes clear writing, a fast and tidy website, and earning links from other trusted sites.
+- What is website care? Website care is ongoing upkeep for a site that is already live. It covers software updates, security, backups, checking the site stays online and making small content changes, so problems are caught early instead of after something breaks.
